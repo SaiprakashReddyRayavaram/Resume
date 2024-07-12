@@ -15,7 +15,7 @@ _Oct 2022 - Jan 2024_
 - Met clients and worked in an agile way to complete the projects.
 ## Education
 
-|Degree|**course**|**university**|**Duration**|
+|Degree|**Course**|**University**|**Duration**|
 |----|----|------|---|
 |M.Eng|Autonomous Driving|Coburg University of Applied Sciences|_March, 2024 - Present_|
 |B.Tech|Mechanical Engineering|Rajiv Gandhi University of Knowledge Technologies-RK Valley|_June, 2019 - May, 2023_|
@@ -32,6 +32,20 @@ _Oct 2022 - Jan 2024_
   - Integrated LIDAR and camera sensors for real-time vehicle positioning and environment mapping.
   - Implemented V2V communication using ROS to subscribe and publish V2X messages.
   - Working on User Interface to join the platoon.
+### Go-Kart Chassis Design and Analysis
+
+- Designed lightweight Go-Kart chassis using CATIA, focusing on circular beam structures.
+- Conducted ANSYS static analysis for performance evaluation under impact scenarios.
+- Selected AISI4130 after comparing materials for strength and weight.
+- Proficient in CAD design, FEA simulation, and material selection.
+- Enhanced project management and problem-solving skills through iterative design and optimization.
+### Multi-Purpose Cargo EV Concept Design
+
+- Designed a versatile Multi-Purpose Cargo EV in CATIA, transforming it into three configurations for varied cargo and usage needs.
+- Implemented modular design principles for optimized space and enhanced usability in urban transport.
+- Proficient in CATIA for CAD modeling and structural design, focusing on innovative electric vehicle solutions.
+- Conceptualized and prototyped to explore sustainable urban mobility advancements.
+
 ## Skills
 **Technical Skills:**
 - **Programming Languages:** Python, C
@@ -58,4 +72,3 @@ _Oct 2022 - Jan 2024_
 - German
 - Hindi
 - Telugu
-## Certifications
