@@ -5,7 +5,7 @@
 - **LinkedIn :** [www.linkedin.com/in/saiprakash-reddy-rayavaram-18329021b]
 - **Github :** [https://github.com/SaiprakashReddyRayavaram/Resume/tree/main]
 ## Summary
-Master's student in Autonomous Driving with hands-on experience in Python programming and ROS, working extensively with LIDAR and camera sensors. Currently engaged in a vehicle platooning project. Previously worked as a Mechanical Design Engineer for 1.5 years, utilizing CATIA V5, SolidWorks, and ANSYS. Seeking an internship position to leverage my expertise in autonomous systems and mechanical design.
+Master's student in Autonomous Driving with hands-on experience in Python programming and ROS, working extensively with LIDAR and camera sensors. Currently engaged in a vehicle platooning project. Previously worked as a Mechanical Design Engineer for 1.5 years, utilizing CATIA V5, SolidWorks, and ANSYS. Seeking an Working Student position to leverage my expertise in autonomous systems and mechanical design.
 ## Experience
 ### Mechanical Design Engineer
 **Radiant Elastomers Private Limited** - Hyderabad, India\
